@@ -1,2 +1,20 @@
-# coca-cola-data-dive
-This Power BI dashboard analyzes Coca-Cola sales data. Explore sales by region, profit margins, and more with interactive visuals like AI Q&amp;A, maps, &amp; dynamic timelines. Great for data exploration &amp; creating data-driven sales strategies. 
+# Coca-Cola Sales Analysis Dashboard
+This Power BI dashboard provides insights into Coca-Cola's sales performance across various regions, brands, and financial metrics.
+
+**What's Included:**
+1. Data Source: The dashboard utilizes a sample Coca-Cola dataset.
+2. Visualizations:
+    a. AI-powered Q&A: Ask natural language questions about the data to uncover trends and insights.
+    b. Key Influencers (Profit Margin by Brand): Identify which brands contribute most significantly to profit margins.
+    c. Map Chart (Sales by Region): Visualize sales performance across different geographical areas.
+    d. Matrix (Financial Analysis): Analyze key financial metrics like price per unit and operating profit.
+    e. Dynamic Timeline: Filter data by desired date range.
+   
+**How to Use This Dashboard:**
+1. Import Your Data: Replace the sample data with your own Coca-Cola sales data in the same format.
+2. Explore the Visualizations: Interact with each visual to gain insights into sales performance, profit margins, and regional trends.
+3. Ask Questions: Utilize the AI-powered Q&A to explore the data further by asking natural language questions.
+4. Filter by Date: Use the dynamic timeline to focus on specific date ranges.
+
+**Additional Notes:**
+1. This dashboard was created in Power BI Desktop.
