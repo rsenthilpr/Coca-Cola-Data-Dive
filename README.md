@@ -21,4 +21,4 @@ This Power BI dashboard provides insights into Coca-Cola's sales performance acr
 
 **Additional Notes:**
 
-* This dashboard was created in Power BI Desktop.
+This dashboard was created in Power BI Desktop.
